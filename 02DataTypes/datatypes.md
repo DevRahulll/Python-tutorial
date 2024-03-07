@@ -15,7 +15,6 @@
 - File : open('egg.text'), open(r'C:\ham.bin','wb') #not a data types but a mechanism
 
 - Boolean : True,False
-
 - None : None
 
 - Function, modules, classes
